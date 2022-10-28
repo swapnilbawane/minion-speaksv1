@@ -55,6 +55,7 @@ body {
     text-align:center;
     font-weight: bold;
     font-size: larger;
+    margin: auto;
 }
 
 /* --------------------------*/
@@ -66,7 +67,7 @@ body {
     margin-right: auto; */
     margin: auto;
     width:500px;
-    height: 100px;
+    height: 50px;
     border-radius: 1rem;
     padding: 1rem;
     text-align:justify;
@@ -80,7 +81,7 @@ body {
     margin-right: auto; */
     margin: auto;
     width:500px;
-    height: 100px;
+    height: 50px;
     border-radius: 1rem;
     padding: 1rem;
     text-align:justify;
@@ -108,7 +109,9 @@ body {
     margin: auto;
     background-color: var(--primary-color);
     border-width: 1px;
-    border-radius: 1rem;
+    border-radius: 0.5rem;
+    padding: 1rem 1.5rem;
+    font-size:large;
 }
 
 /* --------------------------*/
@@ -121,14 +124,13 @@ body {
 
 .footer {
     background-color: var(--primary-color);
-    position: fixed;
-    width: 100%;
-    bottom: 0;
     padding: 1rem;
     font-weight: bold;
     font-size: large;
     color: var(--complimentary-color);
-  
+  /* position: fixed;
+    width: 100%;
+    bottom: 0; */
 }
 
 
