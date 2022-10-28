@@ -133,4 +133,10 @@ body {
     bottom: 0; */
 }
 
+.social-links { 
+    text-align: center; 
+    padding: 1rem;
+    text-decoration: none;
+}
+
 
