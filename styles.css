@@ -135,8 +135,15 @@ body {
 
 .social-links { 
     text-align: center; 
-    padding: 1rem;
+    padding: 1rem;   
+}
+
+.social-linksA a { 
     text-decoration: none;
 }
 
+.social-linksA { 
+    text-align: center; 
+    padding: 0.5rem; 
+}
 
