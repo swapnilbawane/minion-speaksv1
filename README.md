@@ -8,8 +8,6 @@ This project demonstrates how Fetch API works.
 
 The app takes in text input and translates the input into Minion's language using the Fun Translations API for minion language. 
 
-[You can check the app live here](https://preeminent-sunshine-ee41e1.netlify.app/)
-
 Home Page:
 ![Home page](https://github.com/swapnilbawane/minion-speaksv1/blob/main/screenshot/m6-home.png?raw=true)
 
