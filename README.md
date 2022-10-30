@@ -10,3 +10,6 @@ The app takes in text input and translates the input into Minion's language usin
 
 [You can check the app live here](https://preeminent-sunshine-ee41e1.netlify.app/)
 
+Home Page:
+![Home page](https://github.com/swapnilbawane/minion-speaksv1/blob/main/screenshot/m6-home.png?raw=true)
+
